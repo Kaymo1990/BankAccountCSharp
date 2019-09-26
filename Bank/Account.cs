@@ -19,6 +19,21 @@ namespace Bank
             balance = value;
         }
 
+        public void Deposit(float amount)
+        {
+            balance += amount;
+        }
+
+        public void Withdraw(float amount)
+        {
+            balance -= amount;
+        }
+
+        public void transferFunds(Account destination, float amount)
+        {
+            destination.Deposit(amount);
+        }
+
         public float Balance
         {
             get { return balance;  }

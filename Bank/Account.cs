@@ -7,7 +7,7 @@ namespace Bank
     class Account
     {
         private float balance;
-        private float minBalance = 50;
+        private readonly float minBalance = 50;
 
         public Account()
         {
@@ -29,7 +29,7 @@ namespace Bank
             balance -= amount;
         }
 
-        public void transferFunds(Account destination, float amount)
+        public void TransferFunds(Account destination, float amount)
         {
             destination.Deposit(amount);
             Withdraw(amount);
@@ -39,12 +39,12 @@ namespace Bank
         {
             if ((Balance - amount) > MinBalance)
             {
-                transferFunds(destination, amount);
+                TransferFunds(destination, amount);
             }
 
             else
             {
-                throw new NotEnoughFundsException();
+                //throw new NotEnoughFundsException();
             }
 
             return destination;

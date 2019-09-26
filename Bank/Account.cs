@@ -32,6 +32,22 @@ namespace Bank
         public void transferFunds(Account destination, float amount)
         {
             destination.Deposit(amount);
+            Withdraw(amount);
+        }
+
+        public Account TransferMinFunds(Account destination, float amount)
+        {
+            if ((Balance - amount) > MinBalance)
+            {
+                transferFunds(destination, amount);
+            }
+
+            else
+            {
+                throw new NotEnoughFundsException();
+            }
+
+            return destination;
         }
 
         public float Balance

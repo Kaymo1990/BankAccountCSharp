@@ -1,0 +1,17 @@
+C:\Users\Kay\source\repos\Bank\AccountTests\bin\Debug\netcoreapp2.2\AccountTests.deps.json
+C:\Users\Kay\source\repos\Bank\AccountTests\bin\Debug\netcoreapp2.2\AccountTests.dll
+C:\Users\Kay\source\repos\Bank\AccountTests\bin\Debug\netcoreapp2.2\Bank.dll
+C:\Users\Kay\source\repos\Bank\AccountTests\bin\Debug\netcoreapp2.2\Bank.pdb
+C:\Users\Kay\source\repos\Bank\AccountTests\obj\Debug\netcoreapp2.2\AccountTests.csprojAssemblyReference.cache
+C:\Users\Kay\source\repos\Bank\AccountTests\obj\Debug\netcoreapp2.2\AccountTests.csproj.CoreCompileInputs.cache
+C:\Users\Kay\source\repos\Bank\AccountTests\obj\Debug\netcoreapp2.2\AccountTests.AssemblyInfoInputs.cache
+C:\Users\Kay\source\repos\Bank\AccountTests\obj\Debug\netcoreapp2.2\AccountTests.AssemblyInfo.cs
+C:\Users\Kay\source\repos\Bank\AccountTests\obj\Debug\netcoreapp2.2\AccountTests.csproj.CopyComplete
+C:\Users\Kay\source\repos\Bank\AccountTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Kay\source\repos\Bank\AccountTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Kay\source\repos\Bank\AccountTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Kay\source\repos\Bank\AccountTests\bin\Debug\netcoreapp2.2\AccountTests.runtimeconfig.json
+C:\Users\Kay\source\repos\Bank\AccountTests\bin\Debug\netcoreapp2.2\AccountTests.runtimeconfig.dev.json
+C:\Users\Kay\source\repos\Bank\AccountTests\bin\Debug\netcoreapp2.2\AccountTests.pdb
+C:\Users\Kay\source\repos\Bank\AccountTests\obj\Debug\netcoreapp2.2\AccountTests.dll
+C:\Users\Kay\source\repos\Bank\AccountTests\obj\Debug\netcoreapp2.2\AccountTests.pdb

@@ -1,0 +1,17 @@
+C:\Users\Kay\source\repos\Bank\BankTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Kay\source\repos\Bank\BankTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Kay\source\repos\Bank\BankTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Kay\source\repos\Bank\BankTests\bin\Debug\netcoreapp2.2\BankTests.deps.json
+C:\Users\Kay\source\repos\Bank\BankTests\bin\Debug\netcoreapp2.2\BankTests.runtimeconfig.json
+C:\Users\Kay\source\repos\Bank\BankTests\bin\Debug\netcoreapp2.2\BankTests.runtimeconfig.dev.json
+C:\Users\Kay\source\repos\Bank\BankTests\bin\Debug\netcoreapp2.2\BankTests.dll
+C:\Users\Kay\source\repos\Bank\BankTests\bin\Debug\netcoreapp2.2\BankTests.pdb
+C:\Users\Kay\source\repos\Bank\BankTests\obj\Debug\netcoreapp2.2\BankTests.csprojAssemblyReference.cache
+C:\Users\Kay\source\repos\Bank\BankTests\obj\Debug\netcoreapp2.2\BankTests.csproj.CoreCompileInputs.cache
+C:\Users\Kay\source\repos\Bank\BankTests\obj\Debug\netcoreapp2.2\BankTests.AssemblyInfoInputs.cache
+C:\Users\Kay\source\repos\Bank\BankTests\obj\Debug\netcoreapp2.2\BankTests.AssemblyInfo.cs
+C:\Users\Kay\source\repos\Bank\BankTests\obj\Debug\netcoreapp2.2\BankTests.dll
+C:\Users\Kay\source\repos\Bank\BankTests\obj\Debug\netcoreapp2.2\BankTests.pdb
+C:\Users\Kay\source\repos\Bank\BankTests\bin\Debug\netcoreapp2.2\Bank.dll
+C:\Users\Kay\source\repos\Bank\BankTests\bin\Debug\netcoreapp2.2\Bank.pdb
+C:\Users\Kay\source\repos\Bank\BankTests\obj\Debug\netcoreapp2.2\BankTests.csproj.CopyComplete

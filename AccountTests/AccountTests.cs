@@ -23,11 +23,18 @@ namespace AccountTests
             Assert.AreEqual(0, myAccount.Balance);
         }
         [Test]
-        public static void MyAccount_ShouldReturnDefaultBalance10_WhenDepositInput10()
+        public static void MyAccount_ShouldReturnDefaultBalance10_WhenInput10()
         {
-            Account myAccount = new Account();
-            myAccount.Deposit(10);
+            Account myAccount = new Account(10);
             Assert.AreEqual(10, myAccount.Balance);
+        }
+
+        [Test]
+        public static void MyAccount_ShouldReturnBalance30_WhenWithdraw20From50()
+        {
+            Account myAccount = new Account(50);
+            myAccount.Withdraw(30);
+            Assert.AreEqual(20, myAccount.Balance);
         }
     }
 }
